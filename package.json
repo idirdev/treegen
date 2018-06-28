@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/treegen",
+  "version": "1.0.0",
+  "description": "Generate directory tree visualizations",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/treegen.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "treegen": "bin/cli.js"
+  }
+}
