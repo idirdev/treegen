@@ -18,5 +18,9 @@
   },
   "bin": {
     "treegen": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/treegen",
+  "bugs": {
+    "url": "https://github.com/idirdev/treegen/issues"
   }
 }
